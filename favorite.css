@@ -8,16 +8,6 @@ h1 {
   line-height: 43px;
 }
 
-h1 {
-  width: 100%;
-  margin: 0 auto 8px;
-  font-family: "Georgia", serif;
-  text-transform: uppercase;
-  font-weight: medium;
-  font-size: 50px;
-  line-height: 43px;
-}
-
 h5 {
   font-size: 30px;
 }
